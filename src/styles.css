@@ -6,3 +6,15 @@ body,
 html {
   height: 100vh;
 }
+
+.mat-tab {
+  min-width: 50px !important;
+}
+
+.mat-tab-label {
+  min-width: 50px !important;
+}
+
+.mat-tab-header {
+  background-color: #e0e6ea;
+}

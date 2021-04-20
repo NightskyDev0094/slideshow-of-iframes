@@ -1,3 +1,11 @@
 .sidebar {
   background-color: #eff2f4;
 }
+
+.mat-tab {
+  min-width: 25px !important;
+}
+
+.mat-tab-label[_ngcontent-c9] {
+  min-width: 25px !important;
+}
